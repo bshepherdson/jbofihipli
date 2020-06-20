@@ -1,6 +1,11 @@
-# jbofihipli
+# jbofihipli - Lojban IDE
 
-## Project setup
+A helpful environment for writing Lojban text, with integrated as-you-type
+parser and dictionary, syntax highlighting, etc.
+
+Currently not even close to functional!
+
+## Developing
 ```
 yarn install
 ```
