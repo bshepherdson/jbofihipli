@@ -1,0 +1,3 @@
+[submodule "public/external/ilmentufa"]
+	path = public/external/ilmentufa
+	url = https://github.com/lojban/ilmentufa
